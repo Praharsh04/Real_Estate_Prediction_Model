@@ -93,7 +93,7 @@ To run the web application and interact with the prediction model:
 
 The project uses a machine learning model (e.g., Linear Regression, Decision Tree, or RandomForest) trained on the housing dataset. The complete pipeline, including data preprocessing and the model, is saved in `.joblib` files. The `create_model.py` script can be used to retrain and save a new model.
 
-![Live Demo](datasets/housing/demo.gif)
+![Live Demo](datasets/demo.gif)
 
 
 ## 🤝 Contributing
